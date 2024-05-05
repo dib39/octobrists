@@ -504,3 +504,9 @@ body {
   font-size: 1.2rem;
   margin-left: 10px;
 }
+
+@media (max-width: 1650px){
+    .header__wrapper{
+        margin: 20px 5% 20px 5%;
+    }
+}
